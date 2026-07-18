@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://crystalelitepools.github.io/Crystal-Elite-Pools/sitemap.xml
